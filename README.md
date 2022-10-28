@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-**I'm Yoav, junior data analyst and a third year student at Ben Gurion University; majoring Psychology and Management.**
+Hey, I'm Yoav Weller - a junior-level data analyst with one year of experience working in laboratories at the Technion and Ben Gurion universities; while completing my B.A. in Psychology and management at Ben Gurion university.
 
 ## 📄 Favorite Languages and Tools:
 * PYTHON
